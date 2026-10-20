@@ -9,15 +9,16 @@
   images/yushi/    有志発表     grows, girls, kinmokusei, sonmins, 2430,
                                 kani-club, inuyasai, longhair, nico-love
   images/club/     部活動       chemistry, physics, biology, earth-science, photo,
-                                art-general, art-course, tea, english, calligraphy,
+                                art-general（普通科美術部/美術選択者）, art-course, tea, english, calligraphy,
                                 cooking, broadcast
-  images/other/    その他団体   student-council, shodo-sentaku, art-sentaku, library,
+  images/other/    その他団体   student-council, shodo-sentaku, library,
                                 katei, ikuryu, rindo, shop
-  images/map/      校内マップ   1f, 2f, 3f, 4f
+  images/footer/   フッター     emblem（校章）, banner1, banner2, banner3, banner4, banner5
 
 例）images/food/2-2.jpg ／ images/club/chemistry.png
 
 ・ファイル名は半角英数字、大文字小文字も正確に（例：2-S は大文字のS）
+・画像を置いていない所は、仮画像ではなく空欄（グレーの枠など）で表示されます
 ・拡張子は .jpg .jpeg .png .webp（大文字の .JPG なども可）。.HEIC は表示できません
 ・団体を増やすときは、HTML内の CATEGORIES の file と同じ名前にします
 ・表示されないときは、サイトのURLの末尾に ?imgcheck を付けて開くと、
